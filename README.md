@@ -1,20 +1,5 @@
 <style> 
-  h1{
-    /* Rojish */
-position: absolute;
-width: 124px;
-height: 62px;
-left: 62px;
-top: 17px;
-
-font-family: 'Lily Script One';
-font-style: normal;
-font-weight: 400;
-font-size: 45px;
-line-height: 62px;
-/* identical to box height */
-color: #000000;    
-  }
+ 
 
   
 </style>
