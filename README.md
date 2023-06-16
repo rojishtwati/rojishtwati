@@ -1,7 +1,8 @@
 <!--### Hi there 👋-->
 
 
-<p align="center" text=welcome to my profile img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif"></p>
+<p align="center" > 
+  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif"?text=welcome to my profile ></p>
 
 
 
