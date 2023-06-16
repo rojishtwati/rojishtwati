@@ -1,11 +1,11 @@
 
 
 
-<!--
 <p align="center" > 
-  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif?&animation=fadeout&height=100">welcome to my profile 
+  welcome to my profile 
+  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif">
 </p>
--->
+
 
 
 
