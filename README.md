@@ -2,7 +2,8 @@
 
 
 <p align="center" > 
-  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif"?text=welcome to my profile ></p>
+  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif?&animation=fadeout&height=100">text=welcome to my profile 
+</p>
 
 
 
