@@ -1,5 +1,11 @@
-### Hi there 👋
-<p align="center"> welcome to my profile</p>
+<!--### Hi there 👋-->
+
+
+<p align="center" text="welcome to my profile" img scr="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif"></p>
+
+
+
+
 <!--
 **rojishtwati/rojishtwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
