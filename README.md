@@ -1,12 +1,5 @@
-<style> 
- 
-
-  
-</style>
 
 
-<h3> HI! I Am</h3>
-<H1>Rojish Twati</H1>
 
 <!--
 <p align="center" > 
