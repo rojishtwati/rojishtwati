@@ -4,7 +4,7 @@
 </p>
 
 <hr>
-#Hello wrold!
+<h1>Hello world!</h1>
 
 <!--
 **rojishtwati/rojishtwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
