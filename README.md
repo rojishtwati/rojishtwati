@@ -3,15 +3,15 @@
   Welcome to my Git
 </p>
 
-<hr>
 <h1>Hello world!✌</h1>
-  
+ <p></p>
+ <img scr="https://steamuserimages-a.akamaihd.net/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" width="33%" hight="30%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:<img src="screen.png" align="right" width=25% hight="30%"/></h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
