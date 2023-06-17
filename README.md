@@ -1,11 +1,9 @@
 
-
-
-<p align="center" > 
-  welcome to my profile 
-  <img src="https://media.tenor.com/bhbciND-xRAAAAAM/matrix-matrix-code.gif">
+<p align="center" >
+  Welcome to my Git
 </p>
-
+<hr style="width:500px; background-color:blue">
+<center><hr width=500px></center>
 
 
 
