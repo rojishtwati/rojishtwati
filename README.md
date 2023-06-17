@@ -2,10 +2,9 @@
 <p align="center" >
   Welcome to my Git
 </p>
-<hr style="width:500px; background-color:blue">
-<center><hr width=500px></center>
 
-
+<hr>
+#Hello wrold!
 
 <!--
 **rojishtwati/rojishtwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
